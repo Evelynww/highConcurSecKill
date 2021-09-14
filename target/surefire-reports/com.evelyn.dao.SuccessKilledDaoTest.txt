@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.evelyn.dao.SuccessKilledDaoTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.045 s <<< FAILURE! - in com.evelyn.dao.SuccessKilledDaoTest
+queryByIdWithSeckill(com.evelyn.dao.SuccessKilledDaoTest)  Time elapsed: 0.012 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.evelyn.dao.SuccessKilledDaoTest.queryByIdWithSeckill(SuccessKilledDaoTest.java:31)
+
